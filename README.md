@@ -1,2 +1,2 @@
 # my-porfollio
- see projecturl-https://aryan6205012057.github.io/my-porfollio/
+ see projecturl-https://https://github.com/aryan-dream-play.github.io/my-porfollio/
